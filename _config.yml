@@ -1,7 +1,7 @@
 # Site settings
 title: Heiaipika
 SEOTitle: Heiaipika's Blog
-header-img: img/bgn.jpg
+header-img: img/post_g.jpg
 email: ganhx36@gmail.com
 description: "To thine ownself be true."
 keyword: "LeetCode"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/heiaipika/heiaipika.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "hi"
-sidebar-avatar: /img/avatarp.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_p.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
